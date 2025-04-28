@@ -1,29 +1,11 @@
-/* Poppins: CSS class */
+/*  google font family  */
+/* Poppins */
+/* Raleway */
 
-/* 
-.poppins-regular {
-  font-family: "Poppins", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-} */
-
-/* <weight>: Use a value from 100 to 900 */
-/* <uniquifier>: Use a unique and descriptive class name */
-
-/* .raleway {
-  font-family: "Raleway", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 900;
-  font-style: normal;
-} */
-
-h1 {
-  font-family: "Raleway", sans-serif;
-  font-weight: 900;
-  font-style: normal;
-}
-h2 {
-  font-family: "Poppins", sans-serif;
-  font-weight: 900;
-  font-style: normal;
+:root {
+  --orange-color: #da722c;
+  --dark-blue-color: #023047;
+  --dark-color: #070917;
+  --light-color: #e8f7fb;
+  --light-blue-color: #6f7dfb;
 }
